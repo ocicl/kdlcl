@@ -1,0 +1,10 @@
+* kdlcl
+
+KDL reader/printer for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/chee/kdlcl.git   |
+| commit  | {"messa  |
+| systems | kdlcl |
+|---------+-------------------------------------------|
+
