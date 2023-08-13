@@ -2,9 +2,8 @@
 
 KDL reader/printer for common lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/chee/kdlcl.git   |
-| commit  | dd4a48a  |
-| systems | kdlcl |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------|
+| source  | git:https://github.com/chee/kdlcl.git |
+| commit  | dd4a48a                               |
+| systems | (kdl)                                 |
+|---------+---------------------------------------|
